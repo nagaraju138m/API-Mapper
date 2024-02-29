@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MNR\\Practise\\MVC CRUD\\BusinessClass\\BusinessClass.csproj": {}
+    "C:\\MNR\\Practise\\MVC CRUD\\API-Automapper\\BusinessClass\\BusinessClass.csproj": {}
   },
   "projects": {
-    "C:\\MNR\\Practise\\MVC CRUD\\BusinessClass\\BusinessClass.csproj": {
+    "C:\\MNR\\Practise\\MVC CRUD\\API-Automapper\\BusinessClass\\BusinessClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MNR\\Practise\\MVC CRUD\\BusinessClass\\BusinessClass.csproj",
+        "projectUniqueName": "C:\\MNR\\Practise\\MVC CRUD\\API-Automapper\\BusinessClass\\BusinessClass.csproj",
         "projectName": "BusinessClass",
-        "projectPath": "C:\\MNR\\Practise\\MVC CRUD\\BusinessClass\\BusinessClass.csproj",
+        "projectPath": "C:\\MNR\\Practise\\MVC CRUD\\API-Automapper\\BusinessClass\\BusinessClass.csproj",
         "packagesPath": "C:\\Users\\NagarajuMakanaboyina\\.nuget\\packages\\",
-        "outputPath": "C:\\MNR\\Practise\\MVC CRUD\\BusinessClass\\obj\\",
+        "outputPath": "C:\\MNR\\Practise\\MVC CRUD\\API-Automapper\\BusinessClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NagarajuMakanaboyina\\AppData\\Roaming\\NuGet\\NuGet.Config",

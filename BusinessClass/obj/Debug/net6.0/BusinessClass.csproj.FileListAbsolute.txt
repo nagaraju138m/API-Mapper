@@ -10,3 +10,15 @@ C:\MNR\Practise\MVC CRUD\BusinessClass\obj\Debug\net6.0\BusinessClass.dll
 C:\MNR\Practise\MVC CRUD\BusinessClass\obj\Debug\net6.0\refint\BusinessClass.dll
 C:\MNR\Practise\MVC CRUD\BusinessClass\obj\Debug\net6.0\BusinessClass.pdb
 C:\MNR\Practise\MVC CRUD\BusinessClass\obj\Debug\net6.0\ref\BusinessClass.dll
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\bin\Debug\net6.0\BusinessClass.deps.json
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\bin\Debug\net6.0\BusinessClass.dll
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\bin\Debug\net6.0\BusinessClass.pdb
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.csproj.AssemblyReference.cache
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.AssemblyInfoInputs.cache
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.AssemblyInfo.cs
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.csproj.CoreCompileInputs.cache
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.dll
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\refint\BusinessClass.dll
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\BusinessClass.pdb
+C:\MNR\Practise\MVC CRUD\API-Automapper\BusinessClass\obj\Debug\net6.0\ref\BusinessClass.dll

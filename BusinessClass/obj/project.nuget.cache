@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujF/IukiMNHBnDHpB56Ej7y938ZHFHx46hMTW/gw95qLWaE4J1ndQuDcA/Fdyc+sptrxzCDApnFxoTfBvPwqpA==",
+  "dgSpecHash": "1eVmxuQcyq9O3yo/y0SyPYN54DXHovQKDiXIiEr3VqPOYxUiK0c+yu2FY/kjPpeCNBCe/ps85ikU2nIIXGXo6A==",
   "success": true,
-  "projectFilePath": "C:\\MNR\\Practise\\MVC CRUD\\BusinessClass\\BusinessClass.csproj",
+  "projectFilePath": "C:\\MNR\\Practise\\MVC CRUD\\API-Automapper\\BusinessClass\\BusinessClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NagarajuMakanaboyina\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\NagarajuMakanaboyina\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
